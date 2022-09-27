@@ -23,7 +23,10 @@ expno 6:
 ![image](https://user-images.githubusercontent.com/113335352/192437803-280fa156-98cf-4a93-b0b4-35619debd411.png)
 ![image](https://user-images.githubusercontent.com/113335352/192438061-2285698d-3c7a-478b-b876-575a6e462744.png)
 ![image](https://user-images.githubusercontent.com/113335352/192438168-a179389d-b6d9-4d1c-ba95-674cc65a90ec.png)
-exp no 7:
+expno 7:
+![image](https://user-images.githubusercontent.com/113335352/192442055-796c793d-80e8-4cef-9dd1-cda8a870722f.png)
+![image](https://user-images.githubusercontent.com/113335352/192442281-9fafdfad-fb3b-41ba-9066-48eed5a22ec2.png)
+exp no 8:
 ![image](https://user-images.githubusercontent.com/113335352/192441232-e6a43763-be93-4cf7-9bce-315415093bea.png)
 ![image](https://user-images.githubusercontent.com/113335352/192441304-c6d1a475-7310-48e7-8ee9-007cd1bb754a.png)
 ![image](https://user-images.githubusercontent.com/113335352/192441342-0d130830-cc31-4985-a669-386df99bb998.png)
