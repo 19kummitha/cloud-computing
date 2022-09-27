@@ -16,6 +16,7 @@ expno5:
 ![image](https://user-images.githubusercontent.com/113335352/192230925-aaaa7076-b8d8-43c4-b391-cadb288ce4aa.png)
 ![image](https://user-images.githubusercontent.com/113335352/192230983-86c6f095-2844-44ce-9122-15b30530c33b.png)
 expno 6:
+
 ![image](https://user-images.githubusercontent.com/113335352/192437626-67d50164-0b57-4321-9d8f-360f023fc08e.png)
 ![image](https://user-images.githubusercontent.com/113335352/192437723-05265c8c-4bc1-41aa-9fe1-511639d33d80.png)
 ![image](https://user-images.githubusercontent.com/113335352/192437772-c478d853-9c9c-40b6-8568-21d1708771cd.png)
