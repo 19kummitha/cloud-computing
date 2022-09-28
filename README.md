@@ -45,4 +45,11 @@ exp  no 10:
 ![image](https://user-images.githubusercontent.com/113335352/192466277-3dd846de-fee9-4d01-a425-093a2513efee.png)
 ![image](https://user-images.githubusercontent.com/113335352/192466446-5a3c4ccc-8029-40a2-9e6f-7263be6947e4.png)
 ![image](https://user-images.githubusercontent.com/113335352/192466654-b89664fe-fb00-42a8-a942-cb6b07b7cead.png)
+expno 11
+![image](https://user-images.githubusercontent.com/113335352/192732095-1ecb70ff-b30a-4e89-a39d-bea5c1fe2860.png)
+![image](https://user-images.githubusercontent.com/113335352/192732229-f50f8807-c98e-4e1d-bb75-3886082ba7cc.png)
+![image](https://user-images.githubusercontent.com/113335352/192732318-5c2d649d-7940-4a11-b464-94b2aeecc58a.png)
+![image](https://user-images.githubusercontent.com/113335352/192732667-37a606e5-686d-446c-a41a-ada69ba466aa.png)
+![image](https://user-images.githubusercontent.com/113335352/192732749-97fb3c2a-bded-40be-a73f-5bc3145f6ef1.png)
+
 
