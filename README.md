@@ -24,6 +24,7 @@ expno 6:
 ![image](https://user-images.githubusercontent.com/113335352/192438061-2285698d-3c7a-478b-b876-575a6e462744.png)
 ![image](https://user-images.githubusercontent.com/113335352/192438168-a179389d-b6d9-4d1c-ba95-674cc65a90ec.png)
 expno 7:
+
 ![image](https://user-images.githubusercontent.com/113335352/192442055-796c793d-80e8-4cef-9dd1-cda8a870722f.png)
 ![image](https://user-images.githubusercontent.com/113335352/192442281-9fafdfad-fb3b-41ba-9066-48eed5a22ec2.png)
 exp no 8:
