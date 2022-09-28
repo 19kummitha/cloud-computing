@@ -51,5 +51,10 @@ expno 11
 ![image](https://user-images.githubusercontent.com/113335352/192732318-5c2d649d-7940-4a11-b464-94b2aeecc58a.png)
 ![image](https://user-images.githubusercontent.com/113335352/192732667-37a606e5-686d-446c-a41a-ada69ba466aa.png)
 ![image](https://user-images.githubusercontent.com/113335352/192732749-97fb3c2a-bded-40be-a73f-5bc3145f6ef1.png)
+exp no:12
+![image](https://user-images.githubusercontent.com/113335352/192790350-2b050c5d-0727-42b8-a415-a50ee8fb0836.png)
+![image](https://user-images.githubusercontent.com/113335352/192790007-e745197f-549a-4847-8cd2-ae3fc4242b95.png)
+![image](https://user-images.githubusercontent.com/113335352/192790569-19e3e849-4e96-4ba9-923f-a115b98d9cf3.png)
+
 
 
