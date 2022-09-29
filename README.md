@@ -65,6 +65,7 @@ expno 14:
 expno15:
 ![image](https://user-images.githubusercontent.com/113335352/192938240-daa317d9-10c5-4662-8a7d-c0838458c0e4.png)
 ![image](https://user-images.githubusercontent.com/113335352/192939528-76b8f07e-7df1-47b6-aafd-2acd07ebb2d5.png)
+![image](https://user-images.githubusercontent.com/113335352/192940017-7be9066d-ec9b-4005-8ba4-0c66ab21bb7e.png)
 
 
 
