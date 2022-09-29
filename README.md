@@ -55,6 +55,16 @@ exp no:12
 ![image](https://user-images.githubusercontent.com/113335352/192790350-2b050c5d-0727-42b8-a415-a50ee8fb0836.png)
 ![image](https://user-images.githubusercontent.com/113335352/192790007-e745197f-549a-4847-8cd2-ae3fc4242b95.png)
 ![image](https://user-images.githubusercontent.com/113335352/192790569-19e3e849-4e96-4ba9-923f-a115b98d9cf3.png)
+exp no:13
+![image](https://user-images.githubusercontent.com/113335352/192935043-3373063c-fa35-45ed-962d-8661341aa82c.png)
+![image](https://user-images.githubusercontent.com/113335352/192935064-e97068c5-c6d8-44f2-b9e8-9f700cc91226.png)
+expno 14:
+![image](https://user-images.githubusercontent.com/113335352/192936636-6af5d424-d6e9-4e9a-929e-0a6bf4e39f43.png)
+![image](https://user-images.githubusercontent.com/113335352/192937363-a9f660b8-38f6-453b-98aa-077daab26490.png)
+![image](https://user-images.githubusercontent.com/113335352/192937617-27479ec9-6cf4-44c0-bf3f-08040e7ad97c.png)
+expno15:
+![image](https://user-images.githubusercontent.com/113335352/192938240-daa317d9-10c5-4662-8a7d-c0838458c0e4.png)
+![image](https://user-images.githubusercontent.com/113335352/192939528-76b8f07e-7df1-47b6-aafd-2acd07ebb2d5.png)
 
 
 
